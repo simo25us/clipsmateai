@@ -1,0 +1,3 @@
+User-agent 
+Allow 
+Sitemap https://clipsmateai.netlify.app/sitemap.xml
